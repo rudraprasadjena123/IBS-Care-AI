@@ -1,0 +1,10 @@
+{
+  "description": "Helps IBS patients track symptoms, food, and lifestyle patterns while providing AI-powered insights and doctor-shareable reports for better health management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
